@@ -6,6 +6,5 @@ This repository have the goal of help you if you want to save time when colectin
 <li>First, create a form on Google Forms.</li>
 <li>Then go to "Script Editor": </li>
 <img align="center" src="https://user-images.githubusercontent.com/96849188/170910221-ac4eda73-5023-4071-a8f7-81ed7d7bcb1b.png" height="150" width="288">
-<li>Delete all inside the editor and put this script:</li>
-<img align="center" src="https://user-images.githubusercontent.com/96849188/170910221-ac4eda73-5023-4071-a8f7-81ed7d7bcb1b.png" height="150" width="288">
-
+<li>Delete all inside the editor and put the script in the file "code.js"</li>
+<li>Change the items within tags by adding your relative information and save</li>
